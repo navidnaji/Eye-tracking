@@ -1,5 +1,5 @@
 # Eye-tracking
-Python pipeline for loading, cleaning, and analysing raw Tobii eye tracking data — detects fixations and saccades via velocity thresholding, labels Areas of Interest, and visualises gaze behaviour.
+Python pipeline for loading, cleaning, and analysing raw Tobii eye tracking data,detects fixations and saccades via velocity thresholding, labels Areas of Interest, and visualises gaze behaviour.
 Tobii Eye Tracking Analysis Pipeline
 
 A Python pipeline for loading, cleaning, and analysing raw eye tracking data exported from Tobii Pro Lab.
